@@ -10,6 +10,15 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 - **Tools Used:** SQL, MYSQLWORKBENCH
 - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/SQL-%20Event%20managment%20System.sql)**
 
+### 2. Zomato Data Analysis
+ - **Description:** Performed analysis on a dummy zomato database to extract useful insights like ratings and order under a locality
+ - **Tools Used:** SQL
+ - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/ZOMATO_DATA_ANALYSIS.sql)**
+
+### 2. HR Hiring Database Creation and Analysis
+ - **Description:** Turned Excel sheet into 3 NF database to create an EDA report with suggestions for the company
+ - **Tools Used:** EXCEL, SQL
+ - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/SQL-%20DBMS%20%26%20ANLYSIS.pdf)**
 ## Python Projects
 
 ### 1. OTT Churn Analysis 
