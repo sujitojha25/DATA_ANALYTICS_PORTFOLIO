@@ -4,17 +4,11 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 
 ## SQL Projects
 
-### 1. Sales Analysis with SQL
+### 1. Event Database Management
 
-- **Description:** Analyzed sales data to identify trends, top-selling products, and customer preferences.
-- **Tools Used:** SQL, MySQL
-- **[Link to Project](link-to-sql-project-repo)**
-
-### 2. Employee Database Management
-
-- **Description:** Developed a database system to manage employee information, including salary calculations and department assignments.
-- **Tools Used:** SQL, PostgreSQL
-- **[Link to Project](link-to-sql-project-repo)**
+- **Description:** Developed a database system to manage even information, including services costing and department assignments.
+- **Tools Used:** SQL, MYSQLWORKBENCH
+- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/SQL-%20Event%20managment%20System.sql)**
 
 ## Python Projects
 
@@ -26,9 +20,9 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 
 ### 2. Machine Learning for Predictive Modeling
 
-- **Description:** Built a machine learning model to predict customer churn, leveraging Python and Scikit-Learn.
+- **Description:** Built a machine learning model to predict revenue based on sales, leveraging Python and Scikit-Learn.
 - **Tools Used:** Python, Scikit-Learn, Jupyter Notebook
-- **[Link to Project](link-to-python-project-repo)**
+- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Revenue_Sales%20linear%20regression.ipynb)**
 
 ## Tableau Projects
 
@@ -36,21 +30,9 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 
 - **Description:** Created an interactive dashboard visualizing sales performance and key metrics.
 - **Tools Used:** Tableau
-- **[Link to Project](link-to-tableau-project-repo)**
+- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Sales%20Insights%20-Tableau.twbx)**
 
-### 2. Customer Segmentation Analysis
 
-- **Description:** Analyzed customer segments and behaviors through visualization in Tableau.
-- **Tools Used:** Tableau
-- **[Link to Project](link-to-tableau-project-repo)**
-
-## Excel Projects
-
-### 1. Financial Modeling and Analysis
-
-- **Description:** Developed a financial model to analyze company performance and forecast future earnings.
-- **Tools Used:** Microsoft Excel
-- **[Link to Project](link-to-excel-project-repo)**
 
 ### 2. Data Cleaning and Visualization in Excel
 
