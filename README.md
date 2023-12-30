@@ -40,11 +40,12 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 - **Description:** Created an interactive dashboard visualizing sales performance and key metrics.
 - **Tools Used:** Tableau
 - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Sales%20Insights%20-Tableau.twbx)**
+- ![Sales Dashboard](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Screenshot%202023-12-30%20153709.png)
 
 
 
-### 2. Data Cleaning and Visualization in Excel
+### 2. Customer Analysis
 
 - **Description:** Cleaned and visualized a dataset using Excel, showcasing data cleaning techniques and visual representation.
-- **Tools Used:** Microsoft Excel
+- **Tools Used:** Tableau
 - **[Link to Project](link-to-excel-project-repo)**
