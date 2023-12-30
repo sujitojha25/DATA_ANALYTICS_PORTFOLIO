@@ -17,6 +17,11 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 - **Tools Used:** Python, Scikit-Learn, Jupyter Notebook
 - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Revenue_Sales%20linear%20regression.ipynb)**
 
+### 2. ML Model for Predicting New Drugs Working 
+
+- **Description:** Built a machine learning model to predict which drug will suit the patient, leveraging Python and Scikit-Learn.
+- **Tools Used:** Python, Scikit-Learn, Jupyter Notebook
+- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Drug%20prediction.ipynb)**
 
 ## SQL Projects
 
