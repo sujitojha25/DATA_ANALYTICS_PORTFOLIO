@@ -46,6 +46,7 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 
 ### 2. Customer Analysis
 
-- **Description:** Cleaned and visualized a dataset using Excel, showcasing data cleaning techniques and visual representation.
+- **Description:** Analysis of Revenue on an E-commerce platform dataset using Tableau.
 - **Tools Used:** Tableau
 - **[Link to Project](link-to-excel-project-repo)**
+- ![Revenue Dashboard](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Screenshot%202023-12-30%20152947.png)
