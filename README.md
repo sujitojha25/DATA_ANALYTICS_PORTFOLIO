@@ -5,19 +5,26 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 
 ## Python Projects
 
+
 ### 1. OTT Churn Analysis 
+
+- **Description:** Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better.
+- **Tools Used:** Python, Pandas, seaborn, Jupyter Notebook
+- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/OTT%20CHURN%20ANALYSIS.ipynb)**
+
+### 2. OTT Churn Analysis 
 
 - **Description:** Conducted churn analysis for an OTT platform dataset using Logistic Regression, exploring insights and trends.
 - **Tools Used:** Python, Pandas, seaborn, Jupyter Notebook
 - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/OTT%20CHURN%20ANALYSIS.ipynb)**
 
-### 2. Machine Learning for Predictive Modeling
+### 3. Machine Learning for Predictive Modeling
 
 - **Description:** Built a machine learning model to predict revenue based on sales, leveraging Python and Scikit-Learn.
 - **Tools Used:** Python, Scikit-Learn, Jupyter Notebook
 - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Revenue_Sales%20linear%20regression.ipynb)**
 
-### 2. ML Model for Predicting New Drugs Working 
+### 4. ML Model for Predicting New Drugs Working 
 
 - **Description:** Built a machine learning model to predict which drug will suit the patient, leveraging Python and Scikit-Learn.
 - **Tools Used:** Python, Scikit-Learn, Jupyter Notebook
