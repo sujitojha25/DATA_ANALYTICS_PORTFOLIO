@@ -1,16 +1,16 @@
 # Portfolio Projects
 
-Welcome to my portfolio! Here you'll find a collection of projects I've worked on using SQL, Python, Tableau, and Excel. Each project is designed to showcase my skills in data analysis, visualization, and database management.
+Welcome to my portfolio! Here you'll find a collection of projects I've worked on using SQL, Python and Tableau. Each project is designed to showcase my skills in data analysis, visualization, and database management.
 
 
 ## Python Projects
 
 
-### 1. OTT Churn Analysis 
+### 1. Healthcare Analytics 
 
 - **Description:** Hospital admission data was analyzed to accurately predict the patient’s Length of Stay at the time of admit so that the hospitals can optimize resources and function better.
 - **Tools Used:** Python, Pandas, seaborn, Jupyter Notebook
-- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/OTT%20CHURN%20ANALYSIS.ipynb)**
+- **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Healthcare%20Analytics.ipynb)**
 
 ### 2. OTT Churn Analysis 
 
