@@ -57,7 +57,7 @@ Welcome to my portfolio! Here you'll find a collection of projects I've worked o
 - **Description:** Created an interactive dashboard visualizing sales performance and key metrics.
 - **Tools Used:** Tableau
 - **[Link to Project](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Sales%20Insights%20-%20Data%20Analysis%20Project%20using%20Tableau.twbx)**
-- ![Sales Dashboard]("C:\Users\sujit\Pictures\Screenshots\Screenshot 2024-02-16 165202.png")
+- ![Sales Dashboard](https://github.com/sujitojha25/DATA_ANALYTICS_PORTFOLIO/blob/main/Screenshot%202024-02-16%20165202.png)
 
 
 ## Tableau Project
