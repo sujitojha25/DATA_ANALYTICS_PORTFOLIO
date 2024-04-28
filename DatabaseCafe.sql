@@ -1,3 +1,12 @@
+CREATE TABLE Owners (
+    owner_id INT PRIMARY KEY,
+    username TEXT UNIQUE,
+    password_hash TEXT,
+    name TEXT,
+    email TEXT,
+    phone_number TEXT
+);
+
 CREATE TABLE MenuItems (
     item_id INT PRIMARY KEY,
     name TEXT,
